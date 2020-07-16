@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\VideoLearnWebApi\VideoLearn.Model\bin\Debug\VideoLearn.Model.dll
+C:\Users\admin\source\repos\VideoLearnWebApi\VideoLearn.Model\bin\Debug\VideoLearn.Model.pdb
+C:\Users\admin\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.dll
+C:\Users\admin\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.pdb
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\bin\Debug\VideoLearn.Model.dll
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\bin\Debug\VideoLearn.Model.pdb
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.csprojAssemblyReference.cache
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.csproj.CoreCompileInputs.cache
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.dll
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.pdb
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\bin\Debug\EPPlus.dll
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\bin\Debug\EPPlus.xml
+D:\source\repos\VideoLearnWebApi\VideoLearn.Model\obj\Debug\VideoLearn.Model.csproj.CopyComplete
